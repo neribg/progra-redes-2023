@@ -12,3 +12,16 @@ a = int (a)
 b = int (b)
 print (type(a), type(b))
 print ("Suma ", a+b)
+
+
+
+
+print (type(a), type(b))
+print ("Resta ", a-b)
+
+
+print (type(a), type(b))
+print ("Multiplicacion ", a*b)
+
+print (type(a), type(b))
+print ("Dibicion  ", a/b)
