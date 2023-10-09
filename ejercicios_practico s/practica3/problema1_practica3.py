@@ -26,7 +26,6 @@ def suma_datos(tupla):
 
 suma_datos(tuplaDatos)
 
-
 def multiplica_datos(tupla):
     producto = 1
     for i in tupla:
@@ -35,4 +34,3 @@ def multiplica_datos(tupla):
     return producto
 
 multiplica_datos(tuplaDatos)
-
